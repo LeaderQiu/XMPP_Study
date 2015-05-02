@@ -1,0 +1,19 @@
+//
+//  PrefixHeader.pch
+//  XMPP
+//
+//  Created by Kevin on 15/4/12.
+//  Copyright (c) 2015年 Kevin. All rights reserved.
+//
+
+#ifndef _2_____PrefixHeader_pch
+#define _2_____PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import <UIKit/UIKit.h>
+#import "XMPPFramework.h"
+
+#endif
+
+
